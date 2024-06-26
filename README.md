@@ -1,5 +1,21 @@
 # Projeto - Cisco Packet Tracker
 
+## Tutorial para execução do arquivo .pkt
+
+### 1. Baixar e Instalar o Cisco Packet Tracer
+
+- Acesse o site oficial da Cisco Networking Academy: Cisco Packet Tracer
+- Crie uma conta (se ainda não tiver uma) e faça login.
+- Navegue até a seção de downloads e baixe a versão mais recente do Cisco Packet Tracer para o seu sistema operacional.
+- Siga as instruções de instalação fornecidas no site para instalar o software no seu computador.
+
+### 2. Abrir o Arquivo .pkt
+
+- Abra o Cisco Packet Tracer no seu computador.
+- No menu principal, clique em File (Arquivo) e, em seguida, selecione Open (Abrir).
+- Navegue até o local onde o arquivo .pkt está salvo no seu computador.
+- Selecione o arquivo .pkt e clique em Open (Abrir).
+
 ## Introdução
 
 Empresa Fictícia: Tech Solutions.
